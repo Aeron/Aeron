@@ -66,7 +66,7 @@ sometimes I gladly-gladly do.
 ![AWS](https://img.shields.io/static/v1?logo=amazon-aws&label=&message=aws&style=for-the-badge&color=black)
 ![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=nginx&style=for-the-badge&color=black)
 ![Caddy](https://img.shields.io/static/v1?logo=caddy&label=&message=caddy&style=for-the-badge&color=black)
-![Bash](https://img.shields.io/static/v1?logo=bash&label=&message=bash&style=for-the-badge&color=black)
+![Bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&style=for-the-badge&color=black)
 ![Debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&style=for-the-badge&color=black)
 ![Alpine](https://img.shields.io/static/v1?logo=alpinelinux&label=&message=alpine&style=for-the-badge&color=black)
 
