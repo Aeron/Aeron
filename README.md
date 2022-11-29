@@ -49,6 +49,8 @@ sometimes I gladly-gladly do.
 ![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&style=for-the-badge&color=black)
 ![Swift](https://img.shields.io/static/v1?logo=swift&label=&message=swift&style=for-the-badge&color=black)
 ![GitHub Actions](https://img.shields.io/static/v1?logo=githubactions&label=&message=github%20actions&style=for-the-badge&color=black)
+![Raspberry Pi](https://img.shields.io/static/v1?logo=raspberrypi&label=&message=Raspberry%20Pi&style=for-the-badge&color=black)
+![Flipper Zero](https://img.shields.io/static/v1?logo=flipper&label=&message=Flipper%20Zero&style=for-the-badge&color=black)
 
 #### 🎯 From time to time
 
