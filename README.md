@@ -18,6 +18,9 @@ sometimes I gladly-gladly do.
 
 ### 🛠 Things I use
 
+Here is the list of tools I occasionally utilize that could give you an idea of what
+interests me and what I do.
+
 #### 🚀 Daily or often
 
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=python&style=for-the-badge&color=black)
@@ -27,6 +30,7 @@ sometimes I gladly-gladly do.
 ![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&style=for-the-badge&color=black)
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=git&style=for-the-badge&color=black)
 ![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=github&style=for-the-badge&color=black)
+![GitHub Actions](https://img.shields.io/static/v1?logo=githubactions&label=&message=github%20actions&style=for-the-badge&color=black)
 ![Gitlab](https://img.shields.io/static/v1?logo=gitlab&label=&message=gitlab&style=for-the-badge&color=black)
 ![Gitlab CI](https://img.shields.io/static/v1?logo=gitlab&label=&message=gitlab%20ci&style=for-the-badge&color=black)
 ![SemVer](https://img.shields.io/static/v1?logo=semver&label=&message=semver&style=for-the-badge&color=black)
@@ -47,8 +51,8 @@ sometimes I gladly-gladly do.
 #### 🥰 Love to tinker with
 
 ![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&style=for-the-badge&color=black)
+![Zig](https://img.shields.io/static/v1?logo=zig&label=&message=Zig&style=for-the-badge&color=black)
 ![Swift](https://img.shields.io/static/v1?logo=swift&label=&message=swift&style=for-the-badge&color=black)
-![GitHub Actions](https://img.shields.io/static/v1?logo=githubactions&label=&message=github%20actions&style=for-the-badge&color=black)
 ![Raspberry Pi](https://img.shields.io/static/v1?logo=raspberrypi&label=&message=Raspberry%20Pi&style=for-the-badge&color=black)
 ![Flipper Zero](https://img.shields.io/static/v1?logo=flipper&label=&message=Flipper%20Zero&style=for-the-badge&color=black)
 
