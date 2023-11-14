@@ -40,6 +40,7 @@ interests me and what I do.
 ![Kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&style=for-the-badge&color=black)
 ![Helm](https://img.shields.io/static/v1?logo=helm&label=&message=helm&style=for-the-badge&color=black)
 ![DigitalOcean](https://img.shields.io/static/v1?logo=digitalocean&label=&message=digitalocean&style=for-the-badge&color=black)
+![Hetzner](https://img.shields.io/static/v1?logo=hetzner&label=&message=hetzner&style=for-the-badge&color=black)
 ![HAProxy](https://img.shields.io/static/v1?logo=haproxy&label=&message=haproxy&style=for-the-badge&color=black)
 ![Fish](https://img.shields.io/static/v1?logo=fish&label=&message=fish&style=for-the-badge&color=black)
 ![Starship](https://img.shields.io/static/v1?logo=starship&label=&message=starship&style=for-the-badge&color=black)
