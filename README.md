@@ -3,7 +3,7 @@
 I’m a back-end (former full-stack) software engineer — or developer if you like it
 better — with 15+ years of professional experience behind my back.
 
-Most experienced in building fast API, web services, app back-ends, and other
+Most experienced in building fast APIs, web services, app back-ends, and other
 microservices. Including infrastructure configuration, architecture building,
 and development processes management.
 
