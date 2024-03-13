@@ -59,6 +59,8 @@ interests me and what I do.
 
 #### 🎯 From time to time
 
+![HTMX](https://img.shields.io/static/v1?logo=htmx&label=&message=htmx&style=for-the-badge&color=black)
+![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=sqlite&style=for-the-badge&color=black)
 ![Postgres](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgres&style=for-the-badge&color=black)
 ![EdgeDB](https://img.shields.io/static/v1?logo=edgedb&label=&message=edgedb&style=for-the-badge&color=black)
 ![MariaDB](https://img.shields.io/static/v1?logo=mariadb&label=&message=mariadb&style=for-the-badge&color=black)
