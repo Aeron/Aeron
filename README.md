@@ -44,7 +44,7 @@ interests me and what I do.
 ![HAProxy](https://img.shields.io/static/v1?logo=haproxy&label=&message=haproxy&style=for-the-badge&color=black)
 ![Fish](https://img.shields.io/static/v1?logo=fish&label=&message=fish&style=for-the-badge&color=black)
 ![Starship](https://img.shields.io/static/v1?logo=starship&label=&message=starship&style=for-the-badge&color=black)
-![Zed](https://img.shields.io/static/v1?logo=zedindustries&label=&message=sublime&style=for-the-badge&color=black)
+![Zed](https://img.shields.io/static/v1?logo=zedindustries&label=&message=zed&style=for-the-badge&color=black)
 ![Sublime](https://img.shields.io/static/v1?logo=sublimetext&label=&message=sublime&style=for-the-badge&color=black)
 ![VSCode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&style=for-the-badge&color=black)
 ![macOS](https://img.shields.io/static/v1?logo=macos&label=&message=macos&style=for-the-badge&color=black)
