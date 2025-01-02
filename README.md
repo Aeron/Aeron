@@ -46,7 +46,6 @@ interests me and what I do.
 ![Starship](https://img.shields.io/static/v1?logo=starship&label=&message=starship&style=for-the-badge&color=black)
 ![Zed](https://img.shields.io/static/v1?logo=zedindustries&label=&message=zed&style=for-the-badge&color=black)
 ![Sublime](https://img.shields.io/static/v1?logo=sublimetext&label=&message=sublime&style=for-the-badge&color=black)
-![VSCode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&style=for-the-badge&color=black)
 ![macOS](https://img.shields.io/static/v1?logo=macos&label=&message=macos&style=for-the-badge&color=black)
 <!-- ![iOS](https://img.shields.io/static/v1?logo=ios&label=&message=ios&style=for-the-badge&color=black) -->
 
@@ -79,6 +78,8 @@ interests me and what I do.
 ![Caddy](https://img.shields.io/static/v1?logo=caddy&label=&message=caddy&style=for-the-badge&color=black)
 ![Traefik](https://img.shields.io/static/v1?logo=traefikproxy&label=&message=traefik&style=for-the-badge&color=black)
 ![Bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&style=for-the-badge&color=black)
+![VSCode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&style=for-the-badge&color=black)
+![Xcode](https://img.shields.io/static/v1?logo=xcode&label=&message=xcode&style=for-the-badge&color=black)
 ![Debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&style=for-the-badge&color=black)
 ![Alpine](https://img.shields.io/static/v1?logo=alpinelinux&label=&message=alpine&style=for-the-badge&color=black)
 
