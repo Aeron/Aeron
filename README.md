@@ -1,38 +1,35 @@
-## 🤙 Hey there, the name is Eugene
+## 🤙 Hey there, I’m Eugene
 
-I’m a back-end (former full-stack) software engineer — or developer if you like it
-better — with 15+ years of professional experience behind my back.
+I’m a backend engineer with 20+ years of professional experience. I used to work
+across the stack. Most days I build fast APIs and web services, design the
+systems behind them, and help teams ship them.
 
-Most experienced in building fast APIs, web services, app back-ends, and other
-microservices. Including infrastructure configuration, architecture building,
-and development processes management.
+I like being a tech lead on small teams where people communicate clearly, pick
+their tools carefully, and take pride in their work. And yup, I’m a big advocate
+of async remote work 😆
 
-Currently, I’m enjoying working as a team/tech lead. Cherish working with smaller teams
-and companies which understand the importance of clear communication, proper tools and
-means, and individual performance.
-
-Yup, I’m a big advocate for asynchronous remote working. Couldn’t you tell? 😆
-
-Sadly, I rarely have the attention or power to contribute to the open-source, yet
-sometimes I gladly-gladly do.
+I don’t contribute to open source as often as I’d like, but I enjoy it when I
+do.
 
 ### 🛠 Things I use
 
-Here is the list of tools I occasionally utilize that could give you an idea of what
-interests me and what I do.
+#### 🚀 In regular rotation
 
-#### 🚀 Daily or often
-
+![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&style=for-the-badge&color=black)
+![Go](https://img.shields.io/static/v1?logo=go&label=&message=go&style=for-the-badge&color=black)
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=python&style=for-the-badge&color=black)
 ![FastAPI](https://img.shields.io/static/v1?logo=fastapi&label=&message=fastapi&style=for-the-badge&color=black)
 ![Pytest](https://img.shields.io/static/v1?logo=pytest&label=&message=pytest&style=for-the-badge&color=black)
-![Go](https://img.shields.io/static/v1?logo=go&label=&message=go&style=for-the-badge&color=black)
 ![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&style=for-the-badge&color=black)
+![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=sqlite&style=for-the-badge&color=black)
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=git&style=for-the-badge&color=black)
+![Jujutsu](https://img.shields.io/static/v1?logo=jujutsu&label=&message=jujutsu&style=for-the-badge&color=black)
 ![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=github&style=for-the-badge&color=black)
-![GitHub Actions](https://img.shields.io/static/v1?logo=githubactions&label=&message=github%20actions&style=for-the-badge&color=black)
+![GitHub
+Actions](https://img.shields.io/static/v1?logo=githubactions&label=&message=github%20actions&style=for-the-badge&color=black)
 ![Gitlab](https://img.shields.io/static/v1?logo=gitlab&label=&message=gitlab&style=for-the-badge&color=black)
-![Gitlab CI](https://img.shields.io/static/v1?logo=gitlab&label=&message=gitlab%20ci&style=for-the-badge&color=black)
+![Gitlab
+CI](https://img.shields.io/static/v1?logo=gitlab&label=&message=gitlab%20ci&style=for-the-badge&color=black)
 ![SemVer](https://img.shields.io/static/v1?logo=semver&label=&message=semver&style=for-the-badge&color=black)
 ![CalVer](https://img.shields.io/static/v1?logo=calver&label=&message=calver&style=for-the-badge&color=black)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&style=for-the-badge&color=black)
@@ -41,28 +38,32 @@ interests me and what I do.
 ![Helm](https://img.shields.io/static/v1?logo=helm&label=&message=helm&style=for-the-badge&color=black)
 ![DigitalOcean](https://img.shields.io/static/v1?logo=digitalocean&label=&message=digitalocean&style=for-the-badge&color=black)
 ![Hetzner](https://img.shields.io/static/v1?logo=hetzner&label=&message=hetzner&style=for-the-badge&color=black)
+![Caddy](https://img.shields.io/static/v1?logo=caddy&label=&message=caddy&style=for-the-badge&color=black)
 ![HAProxy](https://img.shields.io/static/v1?logo=haproxy&label=&message=haproxy&style=for-the-badge&color=black)
-![Fish](https://img.shields.io/static/v1?logo=fish&label=&message=fish&style=for-the-badge&color=black)
+![Fish](https://img.shields.io/static/v1?logo=fish-shell&label=&message=fish&style=for-the-badge&color=black)
 ![Starship](https://img.shields.io/static/v1?logo=starship&label=&message=starship&style=for-the-badge&color=black)
 ![Zed](https://img.shields.io/static/v1?logo=zedindustries&label=&message=zed&style=for-the-badge&color=black)
 ![Sublime](https://img.shields.io/static/v1?logo=sublimetext&label=&message=sublime&style=for-the-badge&color=black)
 ![macOS](https://img.shields.io/static/v1?logo=macos&label=&message=macos&style=for-the-badge&color=black)
-<!-- ![iOS](https://img.shields.io/static/v1?logo=ios&label=&message=ios&style=for-the-badge&color=black) -->
+<!--
+![iOS](https://img.shields.io/static/v1?logo=ios&label=&message=ios&style=for-the-badge&color=black)
+-->
 
 #### 🥰 Love to tinker with
 
-![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&style=for-the-badge&color=black)
+![Odin](https://img.shields.io/static/v1?logo=odin&label=&message=Odin&style=for-the-badge&color=black)
 ![Zig](https://img.shields.io/static/v1?logo=zig&label=&message=Zig&style=for-the-badge&color=black)
 ![Swift](https://img.shields.io/static/v1?logo=swift&label=&message=swift&style=for-the-badge&color=black)
-![Raspberry Pi](https://img.shields.io/static/v1?logo=raspberrypi&label=&message=Raspberry%20Pi&style=for-the-badge&color=black)
-![Flipper Zero](https://img.shields.io/static/v1?logo=flipper&label=&message=Flipper%20Zero&style=for-the-badge&color=black)
+![Raspberry
+Pi](https://img.shields.io/static/v1?logo=raspberrypi&label=&message=Raspberry%20Pi&style=for-the-badge&color=black)
+![Flipper
+Zero](https://img.shields.io/static/v1?logo=flipper&label=&message=Flipper%20Zero&style=for-the-badge&color=black)
 
 #### 🎯 From time to time
 
 ![HTMX](https://img.shields.io/static/v1?logo=htmx&label=&message=htmx&style=for-the-badge&color=black)
-![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=sqlite&style=for-the-badge&color=black)
 ![Postgres](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgres&style=for-the-badge&color=black)
-![EdgeDB](https://img.shields.io/static/v1?logo=edgedb&label=&message=edgedb&style=for-the-badge&color=black)
+![EdgeDB](https://img.shields.io/static/v1?logo=edgedb&label=&message=edgedb\/gel&style=for-the-badge&color=black)
 ![MariaDB](https://img.shields.io/static/v1?logo=mariadb&label=&message=mariadb&style=for-the-badge&color=black)
 ![RethinkDB](https://img.shields.io/static/v1?logo=rethinkdb&label=&message=rethinkdb&style=for-the-badge&color=black)
 ![Redis](https://img.shields.io/static/v1?logo=redis&label=&message=redis&style=for-the-badge&color=black)
@@ -75,7 +76,6 @@ interests me and what I do.
 ![Grafana](https://img.shields.io/static/v1?logo=grafana&label=&message=grafana&style=for-the-badge&color=black)
 ![AWS](https://img.shields.io/static/v1?logo=amazon-aws&label=&message=aws&style=for-the-badge&color=black)
 ![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=nginx&style=for-the-badge&color=black)
-![Caddy](https://img.shields.io/static/v1?logo=caddy&label=&message=caddy&style=for-the-badge&color=black)
 ![Traefik](https://img.shields.io/static/v1?logo=traefikproxy&label=&message=traefik&style=for-the-badge&color=black)
 ![Bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&style=for-the-badge&color=black)
 ![VSCode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&style=for-the-badge&color=black)
@@ -108,24 +108,21 @@ interests me and what I do.
 
 Stoic and ironic, hedonistic and sarcastic.
 
-If you believe in 💩 like socionics, then my type is `INTJ`. Does it add any detail?
+Four letters that supposedly explain me: `INTJ`. Make of that what you will.
 
 #### Hobbies and activities
 
 + 🎮 Video games
 + 🔫 Practical shooting
-+ 💼 Leathersmithing
++ 💼 Leatherworking
 + 🎲 Tabletop games
 + 🏍 Motorcycling
 + 🚵‍♂️ Bicycling
 + 🤿 Scuba diving
-+ 🗺 Traveling and living in the World
++ 🗺 Traveling and living in new places
 
-Does anyone — in general — hate books, music, movies, good food, and drinks?
-Then no need to even mention it, I guess.
+#### Say hi
 
-#### Communication
-
-Feel free to contact me anyhow (the profile has all the credentials), create an issue,
-or a PR if you found anything worthy thru my repos. I’ll respond or get back to it as
-soon as convenient 😉
+Found a bug or have an idea? Open an issue or send a PR. If you’d rather say hi,
+my contact details are on my profile. I’ll get back to you as soon as convenient
+😉
